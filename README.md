@@ -6,4 +6,4 @@ May be there is a cool distro that everybody is using, but you're already using 
 instead there could be an App like this and even other Apps/Programs for Linux to replicate exactly things that are only possible in other distros, and that is one of the reasonable goals among others.
 
 I will be very happy if some folks want to collaborate with this project, this could be something beneficial for so many people to help them not to change their system, sure.. there will be some impossible cases along the way but..
-is just a matter of time until we can find a work around right? Exactly! that's what this apps is made for.
+is just a matter of time until we can find a work around right? Exactly! that's what this app is made for.
